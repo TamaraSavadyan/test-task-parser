@@ -163,5 +163,3 @@ cython_debug/
 *.yaml
 *.yml
 
-# Ignore /metro folder
-/metro
