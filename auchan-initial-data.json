@@ -1,0 +1,1807 @@
+[
+    {
+        "OldPrice": 89.49,
+        "Price": 79.9,
+        "Weight": 49,
+        "ItemId": 185676,
+        "CategoryIds": [
+            1898363656
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1898363656,
+                690125482,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Молоко"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Ультрапастеризованное молоко – идеальный вариант для длительного хранения или при временном отсутствии холодильника. При ультрапастеризация молоко нагревается до температуры 135 °С — 140 °С за несколь",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/moloko-domik-v-derevne-ultrapasterizovannoe-3-2-950-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28058392",
+        "Name": "Молоко питьевое «Домик в деревне» ультрапастеризованное 3,2% БЗМЖ, 950 мл"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 228.60000610351562,
+        "Weight": 48,
+        "ItemId": 262166,
+        "CategoryIds": [
+            803483582
+        ],
+        "CategoryPathsToRoot": [
+            [
+                803483582,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Яйцо, меланж"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "Каждый день",
+        "Description": "яйцо куриное",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kd-yayco-kurinoe-so-30-sht/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/13887365",
+        "Name": "Социальный товар Яйца куриные С0, 30 шт"
+    },
+    {
+        "OldPrice": 159.99,
+        "Price": 134.9,
+        "Weight": 47,
+        "ItemId": 970911,
+        "CategoryIds": [
+            1939860131
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1939860131,
+                1032669885,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сливочное"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "АШАН Красная птица",
+        "Description": "Сливочное масло 82,5% от Красной птицы – традиционный продукт с нежным вкусом и пластичной консистенцией. Из качественного сырья. Масло придает неповторимый аромат домашним блюдам, что делает его неза",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kp-maslo-sliv-82-5-200g-bzmzh/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/27017618",
+        "Name": "Масло сливочное АШАН Красная птица 82,5% БЗМЖ, 200 г"
+    },
+    {
+        "OldPrice": 157.99000549316406,
+        "Price": 135.89999389648438,
+        "Weight": 46,
+        "ItemId": 957572,
+        "CategoryIds": [
+            106657044
+        ],
+        "CategoryPathsToRoot": [
+            [
+                106657044,
+                690125482,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сливки"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/slivki-auchan-krasnaya-ptica-sterilizovannye-20-500-ml/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28167611",
+        "Name": "Сливки АШАН Красная птица стерилизованные 20% БЗМЖ, 500 мл"
+    },
+    {
+        "OldPrice": 105.48999786376953,
+        "Price": 89.9000015258789,
+        "Weight": 45,
+        "ItemId": 846446,
+        "CategoryIds": [
+            1260343007
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1260343007,
+                2138748467,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сметана"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "Простоквашино",
+        "Description": "Эта маложирная сметана не содержит усилителей вкуса и прочих вредных добавок. Продукт имеет хорошую плотность и густоту, насыщенный сливочный вкус и кисломолочный яркий аромат. Он идеально подходит дл",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/pro-smetana-15-300g-bzmzh/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28059148",
+        "Name": "Сметана «Простоквашино» 15%, 300 г"
+    },
+    {
+        "OldPrice": 184.49000549316406,
+        "Price": 141.89999389648438,
+        "Weight": 44,
+        "ItemId": 478738,
+        "CategoryIds": [
+            1811085121
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1811085121,
+                1163711903,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Майонез"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/mayonez-moskovskiy-provansal-klassicheskiy-67-750-ml/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/27059014",
+        "Name": "Майонез «Я люблю готовить» Московский провансаль 67%, 700 мл"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 98.99,
+        "Weight": 43,
+        "ItemId": 970186,
+        "CategoryIds": [
+            1509839015
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1509839015,
+                1720967670,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Творог, творожная масса"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Творог «Искренне Ваш» изготавливается классическим способом из свежего молока с добавлением натуральной живой закваски, обладает приятной нежной текстурой и мягким сливочным вкусом. Это натуральный пр",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/tvorog-iskrenne-vash-5-180-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/26709613",
+        "Name": "Творог «Искренне Ваш» 5% БЗМЖ, 180 г"
+    },
+    {
+        "OldPrice": 25.49,
+        "Price": 22.9,
+        "Weight": 42,
+        "ItemId": 607411,
+        "CategoryIds": [
+            2142048749
+        ],
+        "CategoryPathsToRoot": [
+            [
+                2142048749,
+                1720967670,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сырки, суфле"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Сырок под маркой «РостАгроЭкспорт» – легендарная марка глазированных сырков компании под собственным брендом. Это неизменно узнаваемое качество в узнаваемом вкусе. С 1996 года сырки с «желтой полосой»",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/syrok-glazirovannyy-rostagroeksport-tvorozhnyy-s-aromatom-vanili-massovaya-dolya-zhira-20-45-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/26507934",
+        "Name": "Сырок творожный «РостАгроЭкспорт» глазированный с ароматом ванили 20%, 45 г"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 76.97000122070312,
+        "Weight": 41,
+        "ItemId": 271258,
+        "CategoryIds": [
+            803483582
+        ],
+        "CategoryPathsToRoot": [
+            [
+                803483582,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Яйцо, меланж"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kd-yayco-kurinoe-so-10-sht/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/13887810",
+        "Name": "Социальный товар Яйца куриные С0, 10 шт"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 48.49,
+        "Weight": 40,
+        "ItemId": 330626,
+        "CategoryIds": [
+            1710205169
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1710205169,
+                1042164773,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Греческий"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "«Греческий» йогурт производится традиционным для этого продукта способом исключительно из натуральных компонентов без использования стабилизаторов, искусственных красителей и ароматизаторов и сухого м",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/yogurt-savushkin-grecheskiy-naturalnyy-2-140-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/25235426",
+        "Name": "Йогурт «Савушкин» Греческий натуральный 2%, 140 г"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 36.49,
+        "Weight": 39,
+        "ItemId": 92995,
+        "CategoryIds": [
+            332290716
+        ],
+        "CategoryPathsToRoot": [
+            [
+                332290716,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Детские молочные продукты"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Творог Агуша с натуральным витамином К2 Классический Первая ложка. О бренде: Детское питание под брендом «Агуша» уже много лет производится на территории Лианозовского молочного комбината. Там в далек",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/tvorog-agusha-detskiy-klassicheskiy-4-5-100-g/?promocodePopup=june2023pervy&utm_medium=cpc&utm_source=yandex&utm_campaign=nonbrand_product-campaign_msk|85914762&utm_term=&utm_content=k50id|0100000044109367114_44109367114|cid|85914762|gid|5167637911|aid|13850882495|adp|no|pos|premium1|src|search_None|dvc|mobile|main&k50id=0100000044109367114_44109367114&yclid=3271193169930558417&utm_referrer=https%3A%2F%2Fyandex.ru%2F",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28059457",
+        "Name": "Творог детский «Агуша» классический 4,5%, 100 г"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 58.98,
+        "Weight": 38,
+        "ItemId": 18410,
+        "CategoryIds": [
+            1898363656
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1898363656,
+                690125482,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Молоко"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "Каждый день",
+        "Description": "По данным исследования Роскачества (от 19.05.2022) товар Собственной торговой марки «Каждый День» Молоко Ультрапастеризованное 3,2% жирности изготовителя ООО «Агросила-Молоко» признан высококачественн",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kdmoloko_ultrapas_32_970ml/?utm_referrer=https%3A%2F%2Fwww.auchan.ru%2Fproduct%2Fgardex-aeroz-ot-moshk-i-kom100m%2F%3FdigiSearch%3Dtrue%26term%3D%25D0%25BC%25D0%25BE%25D0%25BB%25D0%25BE%25D0%25BA%25D0%25BE%26params%3D%257Cfilter%253Dcategories%253A837%253B837%257Csort%253DDEFAULT",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/8203480",
+        "Name": "Молоко ультрапастеризованное «Каждый день» 3,2%  БЗМЖ, 970 мл"
+    },
+    {
+        "OldPrice": 172.99,
+        "Price": 129.9,
+        "Weight": 37,
+        "ItemId": 853873,
+        "CategoryIds": [
+            127371651
+        ],
+        "CategoryPathsToRoot": [
+            [
+                127371651,
+                690125482,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сгущённое молоко"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Продукт пригоден для непосредственного употребления в пищу. Применяется для изготовления кондитерских изделий, горячего шоколада, добавляется по вкусу в кипяченую воду, какао, кофе, чай.",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/moloko-sgushch-rogachev8-5-d-p270/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/24339610",
+        "Name": "Молоко сгущенное «Рогачевъ» с сахаром ГОСТ 8,5% БЗМЖ, 270 г"
+    },
+    {
+        "OldPrice": 69.99,
+        "Price": 49.9,
+        "Weight": 36,
+        "ItemId": 701633,
+        "CategoryIds": [
+            782041611
+        ],
+        "CategoryPathsToRoot": [
+            [
+                782041611,
+                1720967670,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Творожки"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/desert-tvorozhnyy-danissimo-korolevskaya-klubnika-5-6-130-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28011934",
+        "Name": "Творожок «Даниссимо» Королевская клубника 5,6% БЗМЖ, 130 г"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 99.49,
+        "Weight": 35,
+        "ItemId": 232640,
+        "CategoryIds": [
+            889789759
+        ],
+        "CategoryPathsToRoot": [
+            [
+                889789759,
+                2138748467,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Кефир, снежок, закваски"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kefir-prostokvashino-3-2-930-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28141756",
+        "Name": "Кефир «Простоквашино» 3,2% БЗМЖ, 930 мл"
+    },
+    {
+        "OldPrice": 32.49,
+        "Price": 25.9,
+        "Weight": 34,
+        "ItemId": 414541,
+        "CategoryIds": [
+            1116244386
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1116244386,
+                1042164773,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Густой"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Йогурт двухслойный Савушкин манго 2%, 120 г- это изысканное лакомство, представляющее собой два слоя. Верхний - натуральный йогурт, приготовленный из молока и закваски. Нижний - ароматный фруктовый на",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/yogurt-savushkin-dvuhsloynyy-mango-2-120-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/25235466",
+        "Name": "Йогурт «Савушкин» двухслойный манго 2%, 120 г"
+    },
+    {
+        "OldPrice": 89.99,
+        "Price": 74.9,
+        "Weight": 33,
+        "ItemId": 13728,
+        "CategoryIds": [
+            625542263
+        ],
+        "CategoryPathsToRoot": [
+            [
+                625542263,
+                2138748467,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Ряженка, варенец, простокваша"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "АШАН Красная птица",
+        "Description": "Ряженка АШАН имеет нежный, мягкий вкус с оттенком топленого молока и густую консистенцию. Повышает тонус организма и улучшает работу пищеварительной системы. Традиционный национальный продукт русской,",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/ryazhenka-krasnaya-ptica-3-2-1000g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/2470465",
+        "Name": "Ряженка АШАН Красная птица 3,2% БЗМЖ, 1 л"
+    },
+    {
+        "OldPrice": 218.49000549316406,
+        "Price": 179.89999389648438,
+        "Weight": 32,
+        "ItemId": 414355,
+        "CategoryIds": [
+            1939860131
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1939860131,
+                1032669885,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сливочное"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/maslo-vkusnoteevo-slivochnoe-tradicionnoe-82-5-200-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/27259713",
+        "Name": "Масло сливочное «Вкуснотеево» Традиционное 82,5%, 200 г"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 74.9,
+        "Weight": 31,
+        "ItemId": 666492,
+        "CategoryIds": [
+            1260343007
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1260343007,
+                2138748467,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сметана"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Сметана «Домик в деревне» готовится по традиционному рецепту с тщательным отбором сырья. Современная технология производства и специальная закваска делают её густой и сливочной – именно такой, какой и",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/smetana-domik-v-derevne-15-300g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28058975",
+        "Name": "Сметана «Домик в деревне» 15%, 300 г"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 30.98,
+        "Weight": 30,
+        "ItemId": 185444,
+        "CategoryIds": [
+            1458685569
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1458685569,
+                1163711903,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Соусы"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Горчица Столичная Русская - это высококачественная горчица, изготовленная по традиционной рецептуре. Обладает классическим острым вкусом, производиться только из натуральных ингридиентов без применени",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/gorchica-stolichnaya-russkaya-100-g/?promocodePopup=june2023pervy&utm_term=&k50id=010000003533341_3533341&yclid=17965002130966446079&utm_referrer=https%3A%2F%2Fyandex.ru%2F",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/2485144",
+        "Name": "Горчица «Столичная» русская, 100 г"
+    },
+    {
+        "OldPrice": 49.99,
+        "Price": 39.9,
+        "Weight": 29,
+        "ItemId": 986127,
+        "CategoryIds": [
+            488336535
+        ],
+        "CategoryPathsToRoot": [
+            [
+                488336535,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Десерты, снеки"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Фрукты в желе от 'Красной птицы' – легкий десерт с кусочками сочного мандарина. Из качественного сырья. Сочетание насыщенного вкуса и низкой калорийности подойдет людей, следящих за фигурой. Польза и ",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kp-frukty-v-zhele-mandarin-150g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/27089622",
+        "Name": "Желе с фруктами АШАН Красная птица мандарин, 150 г"
+    },
+    {
+        "OldPrice": 79.99,
+        "Price": 66.9,
+        "Weight": 28,
+        "ItemId": 844307,
+        "CategoryIds": [
+            1953141282
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1953141282,
+                1501976329,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Смузи, кисель, морс"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Питьевой продукт Полезный завтрак торговой марки J7 изготавливается из концентрированных соков и пюре яблока, ананаса, банана, манго и киви с добавлением ржаных хлопьев. Он оптимально подходит для пит",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/fr-zl-kok-ki-yab-an-ba-man-0-3l/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28059123",
+        "Name": "Продукт питьевой J7 Полезный завтрак киви яблоко ананас банан манго, 300 мл"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 99.99,
+        "Weight": 27,
+        "ItemId": 957562,
+        "CategoryIds": [
+            106657044
+        ],
+        "CategoryPathsToRoot": [
+            [
+                106657044,
+                690125482,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сливки"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "АШАН Красная птица",
+        "Description": "Сливки АШАН сделаны из отборного коровьего молока. Имеют нежный сладковатый вкус. Подходят для приготовления различных кулинарных изделий, соусов, крем-супов, а также являются отличным дополнением к г",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/slivki-krasnaya-ptica-10-500ml/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28167609",
+        "Name": "Сливки АШАН Красная птица 10% БЗМЖ, 500 мл"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 43.89,
+        "Weight": 26,
+        "ItemId": 860132,
+        "CategoryIds": [
+            1509839015
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1509839015,
+                1720967670,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Творог, творожная масса"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Творог «Каждый день» —  прекрасное решение для полезного завтрака. В процессе приготовления продукта используется только натуральное молоко и закваски. Его можно употреблять как в чистом виде, так и с",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kd-tvorog-5-180g-bzmzh/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/26522981",
+        "Name": "Творог «Каждый день» 5% БЗМЖ, 180 г"
+    },
+    {
+        "OldPrice": 25.489999771118164,
+        "Price": 22.899999618530273,
+        "Weight": 25,
+        "ItemId": 607426,
+        "CategoryIds": [
+            2142048749
+        ],
+        "CategoryPathsToRoot": [
+            [
+                2142048749,
+                1720967670,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сырки, суфле"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/syrok-glazirovannyy-rostagroeksport-tvorozhnyy-s-varenoy-sgushchenkoy-massovaya-dolya-zhira-15-45-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/26507939",
+        "Name": "Сырок творожный «РостАгроЭкспорт» глазированный с вареной сгущенкой 15%, 45 г"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 232.99000549316406,
+        "Weight": 24,
+        "ItemId": 606404,
+        "CategoryIds": [
+            755842770
+        ],
+        "CategoryPathsToRoot": [
+            [
+                755842770,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Растительные продукты"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "Aroy-D",
+        "Description": "Кокосовое молоко – это натуральный продукт, который можно использовать для приготовления тайских карри-супов, освежающих напитков, добавлять в кашу для придания ей чудесного аромата кокоса и использов",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kokos_moloko_60_05l_aroy_d/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/24152339",
+        "Name": "Кокосовое молоко Aroy-D, 500 мл"
+    },
+    {
+        "OldPrice": 73.98999786376953,
+        "Price": 59.900001525878906,
+        "Weight": 23,
+        "ItemId": 7398,
+        "CategoryIds": [
+            561689384
+        ],
+        "CategoryPathsToRoot": [
+            [
+                561689384,
+                1042164773,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Питьевой"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/yp-kl-zeml-1-9-260g-chudo-bzmzh/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28058993",
+        "Name": "Йогурт питьевой «Чудо» Клубника-Земляника 1,9% БЗМЖ, 260 г"
+    },
+    {
+        "OldPrice": 42.99,
+        "Price": 34.9,
+        "Weight": 22,
+        "ItemId": 694248,
+        "CategoryIds": [
+            686241927
+        ],
+        "CategoryPathsToRoot": [
+            [
+                686241927,
+                1501976329,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Молочные"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "Село Зеленое",
+        "Description": "Идеальны для завтрака, богаты белками и витаминами, однако не содержат лишних калорий. Удобная индивидуальная упаковка позволяет полакомиться продуктом в любом месте и в любое время.",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kokteyl-molochnyy-selo-zelenoe-golubika-3-2-200-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/27870556",
+        "Name": "Коктейль молочный «Село зеленое» голубика 3,2% БЗМЖ, 200 г"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 66.97,
+        "Weight": 21,
+        "ItemId": 150444,
+        "CategoryIds": [
+            803483582
+        ],
+        "CategoryPathsToRoot": [
+            [
+                803483582,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Яйцо, меланж"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "яйцо куриное",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kd-yayco-kurinoe-s1-10-sht/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/13886727",
+        "Name": "Социальный товар Яйца куриные С1, 10 шт"
+    },
+    {
+        "OldPrice": 95.49,
+        "Price": 74.9,
+        "Weight": 20,
+        "ItemId": 284848,
+        "CategoryIds": [
+            1898363656
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1898363656,
+                690125482,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Молоко"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "ГОСТ, 5 гарантий: 1. 100 % натуральное 2. неизменно отличный вкус 3. строгий контроль на антибиотики 4. без консервантов 5. без сухого молока и растительных жиров",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/moloko-prostokvashino-pasterizovannoe-2-5-930-ml/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28011559",
+        "Name": "Молоко «Простоквашино» пастеризованное 2,5% БЗМЖ, 930 мл"
+    },
+    {
+        "OldPrice": 119.99,
+        "Price": 99.9,
+        "Weight": 19,
+        "ItemId": 787342,
+        "CategoryIds": [
+            127371651
+        ],
+        "CategoryPathsToRoot": [
+            [
+                127371651,
+                690125482,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сгущённое молоко"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "АШАН Красная птица",
+        "Description": "Молоко цельное сгущенное с сахаром АШАН — знакомое лакомство из детства. Может употребляться как самостоятельный продукт, так и использоваться в качестве начинки для блинчиков, сырников и круассанов. ",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kpmolsgusch_gost_85_zhb_380g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/26425200",
+        "Name": "Молоко сгущенное АШАН Красная птица цельное с сахаром 8,5% БЗМЖ, 380 г"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 39.95,
+        "Weight": 18,
+        "ItemId": 331770,
+        "CategoryIds": [
+            889789759
+        ],
+        "CategoryPathsToRoot": [
+            [
+                889789759,
+                2138748467,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Кефир, снежок, закваски"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Количество молочнокислых микроорганизмов – не менее 1х107 КОЕ/г.Количество дрожжей – не менее 1х104 КОЕ/г. 5 гарантий качества 1. 100 % натуральные ингредиенты2. неизменно отличный вкус3. строгий конт",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kefir-prostokvashino-2-5-930-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28141741",
+        "Name": "Кефир «Простоквашино» 2,5% БЗМЖ, 930 мл"
+    },
+    {
+        "OldPrice": 99.99,
+        "Price": 78.9,
+        "Weight": 17,
+        "ItemId": 842734,
+        "CategoryIds": [
+            1811085121
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1811085121,
+                1163711903,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Майонез"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Традиционный подход к приготовлению майонеза Провансаль и использование исключительно натуральных ингредиентов делают его настоящим эталоном вкуса.",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kp-m-z-provansal-67-400ml/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/24621381",
+        "Name": "Майонез АШАН Красная птица Провансаль 67%, 400 мл"
+    },
+    {
+        "OldPrice": 59.4900016784668,
+        "Price": 49.900001525878906,
+        "Weight": 16,
+        "ItemId": 555358,
+        "CategoryIds": [
+            782041611
+        ],
+        "CategoryPathsToRoot": [
+            [
+                782041611,
+                1720967670,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Творожки"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/produkt-tvorozhnyy-danissimo-hrustyashchie-shariki-7-2-130g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28011799",
+        "Name": "Творожок «Даниссимо» с хрустящими шариками 7,2%, 130 г"
+    },
+    {
+        "OldPrice": 54.99,
+        "Price": 49.9,
+        "Weight": 15,
+        "ItemId": 918724,
+        "CategoryIds": [
+            299391222
+        ],
+        "CategoryPathsToRoot": [
+            [
+                299391222,
+                2138748467,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Национальные продукты"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Айран АШАН - это классический кисломолочный напиток, распростарненный на Кавказе, Казахстан и Средней Азии. Идеально подходит как онова для холодных супов, либо в качестве прохладительного напитка. Бл",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kp-ayran-1-1-1l-bzmzh/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/26463903",
+        "Name": "Напиток кисломолочный АШАН Красная птица Айран БЗМЖ, 1 л"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 114.49,
+        "Weight": 14,
+        "ItemId": 40017,
+        "CategoryIds": [
+            1260343007
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1260343007,
+                2138748467,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сметана"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Сметана ТМ РОСТАГРОЭКСПОРТ изготавливается в строгом соответствии с ГОСТом только из натуральных продуктов самого высокого качества. По результатам лабораторных испытаний в 2018 году, данный товар при",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/smetana-rostagroeksport-20-320-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/2470493",
+        "Name": "Сметана «Ростагроэкспорт» 20% БЗМЖ, 320 г"
+    },
+    {
+        "OldPrice": 32.99,
+        "Price": 25.9,
+        "Weight": 13,
+        "ItemId": 42865,
+        "CategoryIds": [
+            1116244386
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1116244386,
+                1042164773,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Густой"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/yogurt-savushkin-dvuhsloynyy-kivi-kryzhovnik-2-120-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/25274023",
+        "Name": "Йогурт «Савушкин» двухслойный киви - крыжовник 2%, 120 г"
+    },
+    {
+        "OldPrice": 234.99,
+        "Price": 152.9,
+        "Weight": 12,
+        "ItemId": 630839,
+        "CategoryIds": [
+            1939860131
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1939860131,
+                1032669885,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сливочное"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Масло сливочное Тысяча Озёр 82,5% 180 г приготовлено в лучших финских традициях по проверенной рецептуре со строгим контролем качества из натуральных пастеризованных сливок без заменителей молочного ж",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/maslo_tysyacha_ozer_82_180gr/?promocodePopup=june2023pervy&utm_medium=cpc&utm_source=yandex&utm_campaign=nonbrand_dsa_p_msk|79023076&utm_term=&utm_content=k50id|010000003820267_3820267|cid|79023076|gid|5137304492|aid|13545149914|adp|no|pos|premium1|src|search_None|dvc|desktop|main&k50id=010000003820267_3820267&yclid=15093066619008581631&utm_referrer=https%3A%2F%2Fyandex.ru%2F",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/26454646",
+        "Name": "Масло сливочное «Тысяча Озер» Традиционное 82,5% БЗМЖ, 180 г"
+    },
+    {
+        "OldPrice": 106.98999786376953,
+        "Price": 92.9000015258789,
+        "Weight": 11,
+        "ItemId": 818876,
+        "CategoryIds": [
+            758836798
+        ],
+        "CategoryPathsToRoot": [
+            [
+                758836798,
+                1032669885,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Шоколадное"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/maslo-slivochnoe-ekomilk-shokoladnoe-62-100-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/2485112",
+        "Name": "Масло сливочное «Экомилк» шоколадное 62%, 100 г"
+    },
+    {
+        "OldPrice": 104.99,
+        "Price": 99.99,
+        "Weight": 10,
+        "ItemId": 838167,
+        "CategoryIds": [
+            625542263
+        ],
+        "CategoryPathsToRoot": [
+            [
+                625542263,
+                2138748467,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Ряженка, варенец, простокваша"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/ryazhenka-4-0-93-pet-nashey-d/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/26400676",
+        "Name": "Ряженка «Из молока Нашей дойки» 4% БЗМЖ, 930 мл"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 99.99,
+        "Weight": 9,
+        "ItemId": 931516,
+        "CategoryIds": [
+            1136726611
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1136726611,
+                1501976329,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сывороточные"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "Мажитель",
+        "Description": "Напиток Мажитэль дарит вам свежесть сока и пользу молока. Мажитэль обогащен витаминами и содержит натуральный фруктовый сок.",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/napitok-syvorotochno-molochnyy-mazhitel-persik-marakuyya-0-05-896-ml/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28059479",
+        "Name": "Напиток сывороточно-молочный «Мажитэль» Персик-Маракуйя 0,05% БЗМЖ, 896 мл"
+    },
+    {
+        "OldPrice": 49.99,
+        "Price": 39.9,
+        "Weight": 8,
+        "ItemId": 986137,
+        "CategoryIds": [
+            488336535
+        ],
+        "CategoryPathsToRoot": [
+            [
+                488336535,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Десерты, снеки"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Фрукты в желе от 'Красной птицы' – легкий десерт с кусочками спелой вишни. Из качественного сырья. Сочетание насыщенного вкуса и низкой калорийности подойдет людей, следящих за фигурой. Польза и вкус ",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kp-frukty-v-zhele-vishnya-150g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/27089653",
+        "Name": "Желе с фруктами АШАН Красная птица вишня, 150 г"
+    },
+    {
+        "OldPrice": 149.49,
+        "Price": 102.99,
+        "Weight": 7,
+        "ItemId": 747175,
+        "CategoryIds": [
+            460276904
+        ],
+        "CategoryPathsToRoot": [
+            [
+                460276904,
+                1032669885,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Маргарин, спред"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "Кремлевское",
+        "Description": "Кремлевское» в a0пластиковой ванночке имеет нежный сливочный вкус и a0пониженную жирность 60%. Вес упаковки a0— 450г a0— оптимальный для разовой покупки, a0удобства транспортировки и a0хранения. Продукт универсал",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/spred-kremlevskoe-rastitelno-zhirovoy-60-450-g/?utm_referrer=https%3A%2F%2Fwww.google.com%2F",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/26454862",
+        "Name": "Спред растительно-жировой «Кремлевское» 60%, 450 г"
+    },
+    {
+        "OldPrice": 0,
+        "Price": 102.99,
+        "Weight": 6,
+        "ItemId": 752202,
+        "CategoryIds": [
+            37987168
+        ],
+        "CategoryPathsToRoot": [
+            [
+                37987168,
+                2138748467,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Кисломолочные напитки"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "Exponenta",
+        "Description": "EXPONENTA HIGH-PRO – кисломолочный обезжиренный напиток с высоким содержанием белка. Помогает эффективно восполнить норму белка, эффективно насыщает и избавляет от чувства голода. Рекомендуется всем с",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/napitok-kislomolochnyy-exponenta-high-pro-klubnika-arbuz-250-ml/?promocodePopup=june2023pervy&utm_term=&k50id=010000003533304_3533304&yclid=12010543899816493055&utm_referrer=https%3A%2F%2Fyandex.ru%2F",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/781520",
+        "Name": "Напиток кисломолочный Exponenta High-pro клубника-арбуз, 250 мл"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 87.99,
+        "Weight": 5,
+        "ItemId": 823514,
+        "CategoryIds": [
+            1458685569
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1458685569,
+                1163711903,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Соусы"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Майонезные соусы МАХЕЕВЪ — это готовое решение, которое всегда под рукой. Предназначены для применения в качестве вкусовых добавок в готовые блюда.",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/sous-mayoneznyy-maheev-smetannyy-s-gribami-50-5-200-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/27144701",
+        "Name": "Соус майонезный «МАХЕЕВЪ» Сметанный с грибами 50,5%, 200 г"
+    },
+    {
+        "OldPrice": 79.99,
+        "Price": 66.9,
+        "Weight": 4,
+        "ItemId": 984004,
+        "CategoryIds": [
+            1953141282
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1953141282,
+                1501976329,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Смузи, кисель, морс"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Продукт питьевой из яблок, бананов, вишни и черной моркови с овсяными хлопьями для детского питания «Коктейль».",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/smuzi-zlak-vish-ban-yabl-300ml/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28059483",
+        "Name": "Продукт питьевой J7 Полезный завтрак вишня банан яблоко, 300 г"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 39.900001525878906,
+        "Weight": 3,
+        "ItemId": 37394,
+        "CategoryIds": [
+            332290716
+        ],
+        "CategoryPathsToRoot": [
+            [
+                332290716,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Детские молочные продукты"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/tvorog-agusha-detskiy-fruktovyy-chernika-3-9-100-g/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28058644",
+        "Name": "Творог детский «Агуша» фруктовый черника 3,9% БЗМЖ, 100 г"
+    },
+    {
+        "OldPrice": 0.0,
+        "Price": 35.98,
+        "Weight": 2,
+        "ItemId": 762393,
+        "CategoryIds": [
+            106657044
+        ],
+        "CategoryPathsToRoot": [
+            [
+                106657044,
+                690125482,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Сливки"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "",
+        "Description": "Питьевые сливки — образец полезного и вкусного продукта. Традиционно подходят как для приготовления блюд, так и для добавления к горячим напиткам.",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/kdslivki_steril10_200ml_tba/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/26638055",
+        "Name": "Сливки «Каждый День» стерилизованный 10%, 200 мл"
+    },
+    {
+        "OldPrice": 118.9800033569336,
+        "Price": 94.9000015258789,
+        "Weight": 1,
+        "ItemId": 846458,
+        "CategoryIds": [
+            1509839015
+        ],
+        "CategoryPathsToRoot": [
+            [
+                1509839015,
+                1720967670,
+                1841249549
+            ]
+        ],
+        "Regions": "None",
+        "CategoryNames": [
+            "Творог, творожная масса"
+        ],
+        "Params": {
+            "priceType": "item",
+            "basketStep": "1"
+        },
+        "GroupId": "None",
+        "StockId": "1",
+        "Size": "None",
+        "Color": "None",
+        "Algorithm": "p",
+        "BuyUrl": "None",
+        "Vendor": "Простоквашино",
+        "Description": "Творог - полезный и питательный продукт из натурального коровьего молока. Он обладает насыщенным вкусом и приятным кисломолочным ароматом. Данный вид творога - средней жирности. Он отлично подойдет дл",
+        "TypePrefix": "None",
+        "Model": "None",
+        "Url": "https://www.auchan.ru/product/pro-tvorog-5-200g-bzmzh/",
+        "PictureUrl": "https://www.auchan.ru/f/c/insecure/w:620/plain/https://www.auchan.ru/files/original/28012172",
+        "Name": "Творог «Простоквашино» 5% БЗМЖ, 200 г"
+    }
+]
